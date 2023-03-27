@@ -28,4 +28,4 @@ astro dev stop
 
 ### References
 
-[Astro CLI](https://docs.astronomer.io/astro/cli/overview)
+[Documentation - Astro CLI](https://docs.astronomer.io/astro/cli/overview)
